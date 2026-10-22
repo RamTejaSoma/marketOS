@@ -1,0 +1,15 @@
+numpy
+pandas
+yfinance
+requests
+beautifulsoup4
+trafilatura
+
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+
+python-dotenv
+rich
+reportlab

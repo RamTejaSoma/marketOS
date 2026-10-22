@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data
+data/*.json
+
+# Generated reports
+reports/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Frontend build output
+frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+# Archived notebooks
+archive/
+
+# Telugu report generator
+src/telugu_report_generator.py
